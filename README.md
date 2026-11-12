@@ -1,4 +1,4 @@
-# UniXNU-asteroids
+# UniXNU-asteroids 
 
 [UniXNU](https://github.com/UniXNU/UniXNU) device repository for the **Nothing Phone (3a)** (`asteroids`, Qualcomm
 SM7635 "Volcano"). Work in progress: not hardware-complete, and nothing here is meant to be flashed yet.
